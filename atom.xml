@@ -6,7 +6,7 @@
   <link href="https://yx1aol.xyz/atom.xml" rel="self"/>
   
   <link href="https://yx1aol.xyz/"/>
-  <updated>2021-12-14T17:29:42.856Z</updated>
+  <updated>2021-12-14T17:44:29.277Z</updated>
   <id>https://yx1aol.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Afraid</title>
+    <link href="https://yx1aol.xyz/2021/12/15/Afraid/"/>
+    <id>https://yx1aol.xyz/2021/12/15/Afraid/</id>
+    <published>2021-12-14T17:43:29.000Z</published>
+    <updated>2021-12-14T17:44:29.277Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试一下，顺便"><a href="#测试一下，顺便" class="headerlink" title="测试一下，顺便"></a>测试一下，顺便</h2><p>真的很害怕失去</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;测试一下，顺便&quot;&gt;&lt;a href=&quot;#测试一下，顺便&quot; class=&quot;headerlink&quot; title=&quot;测试一下，顺便&quot;&gt;&lt;/a&gt;测试一下，顺便&lt;/h2&gt;&lt;p&gt;真的很害怕失去&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Test" scheme="https://yx1aol.xyz/tags/Test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
